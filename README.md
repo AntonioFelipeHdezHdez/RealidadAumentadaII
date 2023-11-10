@@ -2,4 +2,4 @@
 
 Captura de la práctica:
 
-![RealidadAumentada](RealidadAumentada)
+![RealidadAumentada](RealidadAumentada.png)
